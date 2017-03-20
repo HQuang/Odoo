@@ -1,0 +1,1 @@
+print "Hello guy, my name is Hong Quang, it is the first_file_test"
